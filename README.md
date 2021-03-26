@@ -1,19 +1,24 @@
 # GUI
-
-Driling Realtime Optimziation (powered by AI) Software. 
+---
+### Driling Realtime Optimziation (powered by AI) Software. 
 This is part of a DOE project at Oklahoma State University. 
 
 Team memberes:
-
+```
 Dr. Geir Hareland
-
 Dr. Runar Nygaard
-
 Dr. Saman Akhtarmanesh
-
 Dr. Mohammed F. Al Dushaishi
-
 Dr. Amin Atashnezhad
+```
+
+---
+
+The Realtime Drilling Optimization Platform has four tabs inclduing:
+* Main Page
+* Analysis Details
+* QC Analysis
+* Plot Results
 
 The Graphical User interface are seen at the following images.
 
