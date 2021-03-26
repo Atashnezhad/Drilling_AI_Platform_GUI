@@ -29,7 +29,7 @@ Dr. Amin Atashnezhad
 
 ### The GUI tabs are seen at the following images.
 
-<p align="center">
+<p align="left">
   <img width="400" src="Assets/Capture.PNG" >
   <img width="400" src="Assets/Capture2.PNG" >
   <img width="400" src="Assets/Capture3.PNG" >
