@@ -27,16 +27,5 @@ The Graphical User interface are seen at the following images.
   <img width="600" src="Assets/Capture.PNG" >
 </p>
 
-<p align="left">
-  <img width="600" src="Assets/Capture2.PNG" >
-</p>
-
-<p align="left">
-  <img width="600" src="Assets/Capture3.PNG" >
-</p>
-
-<p align="left">
-  <img width="600" src="Assets/Capture4.PNG" >
-</p>
 
 
