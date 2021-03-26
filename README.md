@@ -18,7 +18,7 @@ The Graphical User interface are seen at the following images.
 Also an example of software output are provided.
 
 <p align="center">
-  <img width="800" src="Assets/Capture.PNG" >
+  <img width="800" src="Assets/GIF1.gif" >
 </p>
 
 
