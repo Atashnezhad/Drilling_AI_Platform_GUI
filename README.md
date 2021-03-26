@@ -8,7 +8,7 @@
 ### Driling Realtime Optimziation (powered by AI) Software. 
 This is part of a DOE project at Oklahoma State University. 
 
-Team memberes:
+Team members:
 ```
 Dr. Geir Hareland
 Dr. Runar Nygaard
@@ -19,7 +19,7 @@ Dr. Amin Atashnezhad
 
 ---
 
-### The Realtime Drilling Optimization Platform has four tabs inclduing:
+### The Realtime Drilling Optimization Platform has four tabs including:
 * Main Page
 * Analysis Details
 * QC Analysis
@@ -27,7 +27,7 @@ Dr. Amin Atashnezhad
 
 ---
 
-### The GUI tabs are seen at the following images.
+### The GUI tabs are seen in the following images.
 
 <p align="left">
   <img width="400" src="Assets/Capture.PNG" >
@@ -38,7 +38,7 @@ Dr. Amin Atashnezhad
 
 ---
 
-### The Softwre output for vibration analysis is seen below.
+### The Software output for vibration analysis is seen below.
 
 <p align="left">
   <img width="1000" src="Assets/GIF2.gif" >
