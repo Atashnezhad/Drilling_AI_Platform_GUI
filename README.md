@@ -22,20 +22,20 @@ The Graphical User interface are seen at the following images.
 </p>
 
 
-<p align="center">
-  <img width="800" src="Assets/Capture.PNG" >
+<p align="left">
+  <img width="600" src="Assets/Capture.PNG" >
 </p>
 
-<p align="center">
-  <img width="800" src="Assets/Capture2.PNG" >
+<p align="left">
+  <img width="600" src="Assets/Capture2.PNG" >
 </p>
 
-<p align="center">
-  <img width="800" src="Assets/Capture3.PNG" >
+<p align="left">
+  <img width="600" src="Assets/Capture3.PNG" >
 </p>
 
-<p align="center">
-  <img width="800" src="Assets/Capture4.PNG" >
+<p align="left">
+  <img width="600" src="Assets/Capture4.PNG" >
 </p>
 
-A GUI for drilling platform powered by AI
+
