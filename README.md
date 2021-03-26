@@ -37,6 +37,21 @@ Dr. Amin Atashnezhad
 </p>
 
 ---
+
+### The Softwre output for vibration analysis is seen below.
+
+<p align="left">
+  <img width="1000" src="Assets/GIF2.gif" >
+</p>
+
+<p align="left">
+  <img width="1000" src="Assets/Capture5.PNG" >
+</p>
+
+
+
+
+
 ### Tree structure of Realtime Drilling Optimization Platform is provided at the following.
 
 ```bash
