@@ -1,18 +1,19 @@
 # GUI
 
-Driling Realtime Optimziation (powered by AI) Software developed by Amin Atashnezhad. This is part of a DOE project at Oklahoma State University. 
+Driling Realtime Optimziation (powered by AI) Software. 
+This is part of a DOE project at Oklahoma State University. 
 
 Team memberes:
 
-Dr Geir Hareland
+Dr. Geir Hareland
 
-Dr Runar Nygaard
+Dr. Runar Nygaard
 
-Dr Saman Akhtarmanesh
+Dr. Saman Akhtarmanesh
 
-Dr Mohammed F. Al Dushaishi
+Dr. Mohammed F. Al Dushaishi
 
-Dr Amin Atashnezhad
+Dr. Amin Atashnezhad
 
 The Graphical User interface are seen at the following images.
 
