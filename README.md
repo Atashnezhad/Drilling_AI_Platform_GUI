@@ -71,7 +71,17 @@ C:.
 |   tree.txt
 |   Vibration_Analysis.ipynb
 |   Vibration_Analysis.py
-|         
+|   
++---.ipynb_checkpoints
+|       GUI-checkpoint.ipynb
+|       GUI_cleaned_underProgress-checkpoint.ipynb
+|       Plotting-checkpoint.ipynb
+|       progress_bar-checkpoint.ipynb
+|       Tab_2_Bit_Details-checkpoint.ipynb
+|       Tab_2_Optimization_Properties-checkpoint.ipynb
+|       Tab_2_PDC_Mud_Heat_Properties_Mud_details-checkpoint.ipynb
+|       Vibration_Analysis-checkpoint.ipynb
+|       
 +---Assets
 |       Capture.PNG
 |       Capture2.PNG
@@ -152,6 +162,84 @@ C:.
 |   |   Temprature_models.py
 |   |   Time_converter.py
 |   |   Wf.py
+|   |   
+|   +---.ipynb_checkpoints
+|   \---__pycache__
+|           Bit_Grade.cpython-36.pyc
+|           Bit_Grade.cpython-37.pyc
+|           Bit_Grade_With_start.cpython-36.pyc
+|           Bit_Grade_With_start.cpython-37.pyc
+|           Cutter_Face_Contact_Area.cpython-36.pyc
+|           Cutter_Face_Contact_Area.cpython-37.pyc
+|           Cutter_Froce.cpython-36.pyc
+|           Cutter_Froce.cpython-37.pyc
+|           Cutter_Temprature.cpython-36.pyc
+|           Cutter_Temprature.cpython-37.pyc
+|           Cutter_Wear_Flat_Area.cpython-36.pyc
+|           Cutter_Wear_Flat_Area.cpython-37.pyc
+|           Cutter_Work.cpython-36.pyc
+|           Cutter_Work.cpython-37.pyc
+|           DE_Algorithm_01.cpython-36.pyc
+|           DE_Algorithm_02.cpython-36.pyc
+|           DOC_calculation.cpython-36.pyc
+|           DOC_calculation.cpython-37.pyc
+|           Drilling_Time_calc.cpython-36.pyc
+|           General_Functions.cpython-36.pyc
+|           General_Functions.cpython-37.pyc
+|           generate_candidate.cpython-36.pyc
+|           MSE.cpython-36.pyc
+|           MSE.cpython-37.pyc
+|           Parameters_seperation_functions.cpython-36.pyc
+|           Parameters_seperation_functions.cpython-37.pyc
+|           Plot_1.cpython-36.pyc
+|           Plot_2.cpython-36.pyc
+|           Plot_3.cpython-36.pyc
+|           Plot_4.cpython-36.pyc
+|           ROP_models.cpython-36.pyc
+|           ROP_models.cpython-37.pyc
+|           Some_necessary_constants.cpython-36.pyc
+|           Some_necessary_constants.cpython-37.pyc
+|           Temprature_models.cpython-36.pyc
+|           Temprature_models.cpython-37.pyc
+|           Time_converter.cpython-36.pyc
+|           Time_converter.cpython-37.pyc
+|           Wf.cpython-36.pyc
+|           Wf.cpython-37.pyc
+|           
+\---__pycache__
+        Function_set.cpython-36.pyc
+        Function_set.cpython-37.pyc
+        GUI_Functions.cpython-36.pyc
+        GUI_Functions.cpython-37.pyc
+        Parameters_seperation_functions.cpython-36.pyc
+        Part_01.cpython-36.pyc
+        Part_01.cpython-37.pyc
+        Part_02.cpython-36.pyc
+        Part_02.cpython-37.pyc
+        Part_03.cpython-36.pyc
+        Part_03.cpython-37.pyc
+        Plot_function_1.cpython-36.pyc
+        Plot_function_1.cpython-37.pyc
+        Plot_function_2.cpython-36.pyc
+        Plot_function_2.cpython-37.pyc
+        Plot_function_3.cpython-36.pyc
+        Plot_function_3.cpython-37.pyc
+        Plot_function_4.cpython-36.pyc
+        Plot_function_5.cpython-36.pyc
+        Plot_function_6.cpython-36.pyc
+        Plot_function_Vibration.cpython-36.pyc
+        QC_function.cpython-36.pyc
+        ROP_models.cpython-36.pyc
+        Some_necessary_constants.cpython-36.pyc
+        Tab_2_Bit_Details.cpython-36.pyc
+        Tab_2_Optimization_Properties.cpython-36.pyc
+        Tab_2_PDC_Mud_Heat_Properties_Mud_details.cpython-36.pyc
+        Temprature_models.cpython-36.pyc
+        Trunc_function.cpython-36.pyc
+        Trunc_function.cpython-37.pyc
+        Vibration_Analysis.cpython-36.pyc
+        
+
 ```
 
 
