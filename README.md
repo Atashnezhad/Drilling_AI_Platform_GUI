@@ -36,7 +36,8 @@ Dr. Amin Atashnezhad
   <img width="400" src="Assets/Capture4.PNG" >
 </p>
 
-
+---
+### Tree structure of Realtime Drilling Optimization Platform is provided at the following.
 
 ```
 Folder PATH listing for volume OS
