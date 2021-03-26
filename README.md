@@ -17,8 +17,8 @@ Dr Amin Atashnezhad
 The Graphical User interface are seen at the following images.
 
 
-<p align="center">
-  <img width="800" src="Assets/GIF1.gif" >
+<p align="left">
+  <img width="900" src="Assets/GIF1.gif" >
 </p>
 
 
