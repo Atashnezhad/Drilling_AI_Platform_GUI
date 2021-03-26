@@ -1,5 +1,10 @@
+
+<p align="left">
+  <img width="1000" src="Assets/GIF1.gif" >
+</p>
+
 # GUI
----
+
 ### Driling Realtime Optimziation (powered by AI) Software. 
 This is part of a DOE project at Oklahoma State University. 
 
@@ -23,9 +28,7 @@ The Realtime Drilling Optimization Platform has four tabs inclduing:
 The Graphical User interface are seen at the following images.
 
 
-<p align="left">
-  <img width="900" src="Assets/GIF1.gif" >
-</p>
+
 
 
 <p align="left">
