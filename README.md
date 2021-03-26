@@ -3,7 +3,7 @@
   <img width="1000" src="Assets/GIF1.gif" >
 </p>
 
-# GUI
+# Graphical User interface (GUI) for Realtime Drilling Optimization system
 
 ### Driling Realtime Optimziation (powered by AI) Software. 
 This is part of a DOE project at Oklahoma State University. 
@@ -27,7 +27,7 @@ Dr. Amin Atashnezhad
 
 ---
 
-### The Graphical User interface are seen at the following images.
+### The GUI tabs are seen at the following images.
 
 <p align="center">
   <img width="400" src="Assets/Capture.PNG" >
