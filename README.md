@@ -27,13 +27,16 @@ The Realtime Drilling Optimization Platform has four tabs inclduing:
 
 The Graphical User interface are seen at the following images.
 
-
-
-
-
-<p align="left">
-  <img width="600" src="Assets/Capture.PNG" >
+<p align="center">
+  <img width="400" src="Assets/Capture.PNG" >
+  <img width="400" src="Assets/Capture2.PNG" >
+  <img width="400" src="Assets/Capture3.PNG" >
+  <img width="400" src="Assets/Capture4.PNG" >
 </p>
+
+
+
+
 
 
 
