@@ -19,13 +19,15 @@ Dr. Amin Atashnezhad
 
 ---
 
-The Realtime Drilling Optimization Platform has four tabs inclduing:
+### The Realtime Drilling Optimization Platform has four tabs inclduing:
 * Main Page
 * Analysis Details
 * QC Analysis
 * Plot Results
 
-The Graphical User interface are seen at the following images.
+---
+
+### The Graphical User interface are seen at the following images.
 
 <p align="center">
   <img width="400" src="Assets/Capture.PNG" >
