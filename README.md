@@ -40,13 +40,13 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
 
 
 
-
+<!--
 # Graphical User interface (GUI) for Realtime Drilling Optimization system
 
 <p align="left">
   <img width="1000" src="Assets/GIF1.gif" >
 </p>
-
+-->
 
 ### Driling Realtime Optimziation Software. 
 This is part of a DOE project at Oklahoma State University. 
@@ -60,16 +60,17 @@ Dr. Mohammed F. Al Dushaishi
 Dr. Amin Atashnezhad
 ```
 
----
 
-### The Realtime Drilling Optimization Platform has four tabs including:
+### The Realtime Drilling Optimization Platform has five tabs including:
 * Main Page
 * Analysis Details
 * QC Analysis
 * Plot Results
 * Streaming
----
 
+
+
+<!--
 ### The GUI tabs are seen in the following images.
 
 <p align="left">
@@ -78,18 +79,17 @@ Dr. Amin Atashnezhad
   <img width="400" src="Assets/Capture3.PNG" >
   <img width="400" src="Assets/Capture4.PNG" >
 </p>
+-->
 
----
 
 ### The Software output for vibration analysis is seen below.
 
 <p align="left">
-  <img width="1000" src="Assets/GIF2.gif" >
+  <img width="400" src="Assets/GIF2.gif" >
+   <img width="400" src="Assets/Capture5.PNG" >
 </p>
 
-<p align="left">
-  <img width="1000" src="Assets/Capture5.PNG" >
-</p>
+
 
 
 
