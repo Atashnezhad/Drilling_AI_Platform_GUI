@@ -48,7 +48,7 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
 
 # Graphical User interface (GUI) for Realtime Drilling Optimization system
 
-### Driling Realtime Optimziation (powered by AI) Software. 
+### Driling Realtime Optimziation Software. 
 This is part of a DOE project at Oklahoma State University. 
 
 Team members:
