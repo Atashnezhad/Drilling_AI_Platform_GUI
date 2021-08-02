@@ -31,22 +31,22 @@ General Electric Company, GE Global Research (Niskayuna, NY): Developing and tes
 DOE’s Geothermal Technologies Office supports early-stage R&D to achieve necessary technological breakthroughs. Learn more about DOE’s Geothermal Technologies Office HERE.
 
 
+**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
+
+<p align="left">
+  <img width="800" src="Assets/Simulation.gif" >
+</p>
 
 
 
 
 
-
-
-
-
-
+# Graphical User interface (GUI) for Realtime Drilling Optimization system
 
 <p align="left">
   <img width="1000" src="Assets/GIF1.gif" >
 </p>
 
-# Graphical User interface (GUI) for Realtime Drilling Optimization system
 
 ### Driling Realtime Optimziation Software. 
 This is part of a DOE project at Oklahoma State University. 
