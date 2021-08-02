@@ -67,7 +67,7 @@ Dr. Amin Atashnezhad
 * Analysis Details
 * QC Analysis
 * Plot Results
-
+* Streaming
 ---
 
 ### The GUI tabs are seen in the following images.
