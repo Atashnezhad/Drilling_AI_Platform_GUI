@@ -34,7 +34,7 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
 **A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
 
 <p align="left">
-  <img width="800" src="Assets/Simulation.gif" >
+  <img width="650" src="Assets/Simulation.gif" >
 </p>
 
 
