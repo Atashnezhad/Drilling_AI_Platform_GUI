@@ -47,8 +47,7 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
   <img width="1000" src="Assets/GIF1.gif" >
 </p>
 -->
-
-### Driling Realtime Optimziation Software. 
+Driling Realtime Optimziation Software. 
 This is part of a DOE project at Oklahoma State University. 
 
 Team members:
@@ -61,7 +60,7 @@ Dr. Amin Atashnezhad
 ```
 
 
-### The Realtime Drilling Optimization Platform has five tabs including:
+The Realtime Drilling Optimization Platform has five tabs including:
 * Main Page
 * Analysis Details
 * QC Analysis
@@ -82,7 +81,7 @@ Dr. Amin Atashnezhad
 -->
 
 
-### The Software output for vibration analysis is seen below.
+The Software output for vibration analysis is seen below.
 
 <p align="left">
   <img width="400" src="Assets/GIF2.gif" >
