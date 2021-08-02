@@ -94,7 +94,7 @@ Dr. Amin Atashnezhad
 
 
 
-
+<!--
 ### Tree structure of Realtime Drilling Optimization Platform is provided at the following.
 
 ```bash
@@ -211,7 +211,7 @@ C:.
 |   |   Wf.py
 ```
 
-
+-->
 
 
 
