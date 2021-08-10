@@ -46,7 +46,8 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
 -->
 
 
-**Driling Realtime Optimziation Software**. 
+# Driling Realtime Optimziation Software 
+
 This is part of a DOE project at Oklahoma State University. 
 
 Team members:
