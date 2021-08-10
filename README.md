@@ -82,7 +82,7 @@ Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of
 
 
 
-The system at this stage simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. 
+The system simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. 
 The Analysis tab is seen below. The user have access to around 110 design parameters.
 
 
