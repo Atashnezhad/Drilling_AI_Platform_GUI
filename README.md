@@ -72,7 +72,7 @@ Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of
   <img width="700" src="Assets/AkhtarmaneshEtAlModelSens.png" >
 </p>
 
-
+The size of black circles shows the share of each parameter on the dependant parameter (ROP). The connections are representative of the interaction between parameters.
 
 
 **Drill string vibration model**: The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
