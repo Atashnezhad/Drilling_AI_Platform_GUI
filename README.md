@@ -83,6 +83,17 @@ Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of
 
 
 The system at this stage simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. 
+The Analysis tab is seen below. The user have access to around 110 design parameters.
+
+
+<p align="left">
+  <img width="800" src="Assets/Capture2.PNG" >
+</p>
+
+
+
+
+
 In step two, the software back calculates the rock strength in real-time, using the ROP model and ROP_data and bit details. The ROP_data is used in the ROP model and the one unknown parameter (ARS) is back-calculated. The ARS then is turned into the CCS and UCS considering the depth and MW into account.
 
 In step three, the user can run the software to calculate the best WOB and RPM for the current foot of drilling and assuming that the rock strength is the same for the next foot. Knowing the rock strength, a foot ahead, the searching algorithm (differential evolution algorithm) will find the best WOB and RPM to maximize the objective function (defined by the user, i.e. MSE, ROP, or combination of MSE and ROP) while avoiding the critical vibrational and cutter temperature defined by the user.
