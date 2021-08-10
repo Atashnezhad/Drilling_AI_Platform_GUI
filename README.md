@@ -100,9 +100,11 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
+Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure. 
 
-
-
+<p align="left">
+  <img width="800" src="Assets/ch_m.png" >
+</p>
 
 In step two, the software back calculates the rock strength in real-time, using the ROP model and ROP_data and bit details. The ROP_data is used in the ROP model and the one unknown parameter (ARS) is back-calculated. The ARS then is turned into the CCS and UCS considering the depth and MW into account.
 
