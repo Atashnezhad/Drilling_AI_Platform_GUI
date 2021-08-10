@@ -65,6 +65,15 @@ The project incorporates several modules to achieve a Real-time drilling optimiz
 **The PDC ROP modeling**: A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, RPM, WOB, bit diameter, and apparent rock strength.
 Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of penetration (ROP_t) introduced and used to detect the two main regions in drilling ROP-WOB plots. 
 
+ The SALib library was used for [sensitivity analysis](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model) and the result is seen at the following figure. 
+
+<p align="left">
+  <img width="700" src="Assets/AkhtarmaneshEtAlModelSens.png" >
+</p>
+
+
+
+
 **Drill string vibration model**: The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
 
 **PDC cutter temperature model** : Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
