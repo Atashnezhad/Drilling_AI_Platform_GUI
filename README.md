@@ -31,41 +31,6 @@ General Electric Company, GE Global Research (Niskayuna, NY): Developing and tes
 DOE’s Geothermal Technologies Office supports early-stage R&D to achieve necessary technological breakthroughs. Learn more about DOE’s Geothermal Technologies Office HERE.
 
 
-**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
-
-<p align="left">
-  <img width="650" src="Assets/Simulation.gif" >
-</p>
-
-
-
-
-<!--
-# Graphical User interface (GUI) for Realtime Drilling Optimization system
-
-<p align="left">
-  <img width="1000" src="Assets/GIF1.gif" >
-</p>
--->
-Driling Realtime Optimziation Software. 
-This is part of a DOE project at Oklahoma State University. 
-
-Team members:
-```
-Dr. Geir Hareland
-Dr. Runar Nygaard
-Dr. Saman Akhtarmanesh
-Dr. Mohammed F. Al Dushaishi
-Dr. Amin Atashnezhad
-```
-
-
-The Realtime Drilling Optimization Platform has five tabs including:
-* Main Page
-* Analysis Details
-* QC Analysis
-* Plot Results
-* Streaming
 
 
 
@@ -81,12 +46,98 @@ The Realtime Drilling Optimization Platform has five tabs including:
 -->
 
 
+**Driling Realtime Optimziation Software**. 
+This is part of a DOE project at Oklahoma State University. 
+
+Team members:
+```
+Dr. Geir Hareland
+Dr. Runar Nygaard
+Dr. Saman Akhtarmanesh
+Dr. Mohammed F. Al Dushaishi
+Dr. Amin Atashnezhad
+```
+
+
+
+The project incorporates several modules to achieve a Real-time drilling optimization system with emphasis on geothermal drilling (Utah-Forge).
+
+The PDC ROP modeling: A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, RPM, WOB, bit diameter, and apparent rock strength.
+
+Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of penetration (ROP_t) introduced and used for de the two main regions in drilling ROP-WOB plots. 
+
+The drill string vibration model developed (Aldushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
+
+Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
+
+A Real-time bit wear model was developed to track the bit grade in real-time. This is essential due to the fact the cutters are progressively worn out which will affect the drilling performance, depth of cut, rate of penetration, cutter temperature, etc.
+
+
+**The Realtime Drilling Optimization Platform has five tabs including**:
+* Main Page
+* Analysis Details
+* QC Analysis
+* Plot Results
+* Streaming
+
+
+
+
+The system at this stage simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. 
+In step two, the software back calculates the rock strength in real-time, using the ROP model and ROP_data and bit details. The ROP_data is used in the ROP model and the one unknown parameter (ARS) is back-calculated. The ARS then is turned into the CCS and UCS considering the depth and MW into account.
+
+In step three, the user can run the software to calculate the best WOB and RPM for the current foot of drilling and assuming that the rock strength is the same for the next foot. Knowing the rock strength, a foot ahead, the searching algorithm (differential evolution algorithm) will find the best WOB and RPM to maximize the objective function (defined by the user, i.e. MSE, ROP, or combination of MSE and ROP) while avoiding the critical vibrational and cutter temperature defined by the user.
+
+The user also can-do separate drill string vibration analyses on different rock strengths.
+
 The Software output for vibration analysis is seen below.
 
 <p align="left">
   <img width="400" src="Assets/GIF2.gif" >
    <img width="400" src="Assets/Capture5.PNG" >
 </p>
+
+
+
+
+The software will plot and compares the simulation results in 5 separate stages. 
+The user can save the analysis design in CSV format along with the simulation outputs from three steps.
+The software can read the WITSML file and generates its necessary input file to be used in simulation and optimization procedures.
+
+
+
+
+
+**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
+
+<p align="left">
+  <img width="650" src="Assets/Simulation.gif" >
+</p>
+
+
+
+
+
+
+
+
+
+<!--
+# Graphical User interface (GUI) for Realtime Drilling Optimization system
+
+<p align="left">
+  <img width="1000" src="Assets/GIF1.gif" >
+</p>
+-->
+
+
+
+
+
+
+
+
+
 
 
 
