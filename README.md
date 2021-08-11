@@ -173,8 +173,8 @@ A simulation for ROP, Temprature, MSE for different BG values and at constant ro
 The drilling real-time optimization system was used for Utah-Forge Well 58-32. The results are seen in the following figures.
 
 <p align="left">
-  <img width="360" src="Assets/Fig7ARMA1215.PNG" >
-  <img width="360" src="Assets/Fig8ARMA1215.PNG" >
+  <img width="320" src="Assets/Fig7ARMA1215.PNG" >
+  <img width="320" src="Assets/Fig8ARMA1215.PNG" >
 </p>
 
 
