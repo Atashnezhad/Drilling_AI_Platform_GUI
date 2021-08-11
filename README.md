@@ -101,7 +101,7 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
-### Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure. 
+**Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure.** 
 
 <p align="left">
   <img width="800" src="Assets/ch_m.png" >
@@ -131,7 +131,7 @@ In step three, the user can run the software to calculate the best WOB and RPM f
 
 The user also can-do separate drill string vibration analyses on different rock strengths.
 
-### The Software output for vibration analysis is seen below.
+**The Software output for vibration analysis is seen below.**
 
 <p align="left">
    <img width="400" src="Assets/GIF2.gif" >
@@ -149,7 +149,7 @@ The software can read the WITSML file and generates its necessary input file to 
 
 
 
-### A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.
+**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
 
 <p align="left">
   <img width="650" src="Assets/Simulation.gif" >
