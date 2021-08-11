@@ -138,9 +138,25 @@ The software can read the WITSML file and generates its necessary input file to 
 
 
 
+### Artificial Intelligence realtime optimization results
+The drilling real-time optimization system was used for Utah-Forge Well 58-32. The results are seen in the following figures
+
+<p align="left">
+  <img width="360" src="Assets/Fig7ARMA1215.PNG" >
+  <img width="360" src="Assets/Fig8ARMA1215.PNG" >
+</p>
 
 
-
+```
+Above Figures reference: 
+ARMA 21–1215
+Developing a Drilling Optimization System for Improved
+Overall Rate of Penetration in Geothermal Wells
+Atashnezhad, A.
+Oklahoma State University, Stillwater, OK, USA
+Akhtarmanesh, S., Hareland, G., and Al Dushaishi, M.
+Oklahoma State University, Stillwater, OK, USA
+```
 
 
 
@@ -151,6 +167,41 @@ The software can read the WITSML file and generates its necessary input file to 
   <img width="1000" src="Assets/GIF1.gif" >
 </p>
 -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
