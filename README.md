@@ -64,7 +64,9 @@ Dr. Amin Atashnezhad
 
 The project incorporates several modules to achieve a Real-time drilling optimization system with emphasis on geothermal drilling (Utah-Forge).
 
-**The PDC ROP modeling**: A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, RPM, WOB, bit diameter, and apparent rock strength.
+**The PDC ROP modeling**: 
+
+A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, RPM, WOB, bit diameter, and apparent rock strength.
 Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of penetration (ROP_t) introduced and used to detect the two main regions in drilling ROP-WOB plots. 
 
  The SALib library was used for [sensitivity analysis](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model) and the result is seen at the following figure. 
@@ -76,14 +78,20 @@ Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of
 The size of black circles shows the share of each parameter on the dependant parameter (ROP). The connections are representative of the interaction between parameters.
 
 
-**Drill string vibration model**: The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
+**Drill string vibration model**: 
 
-**PDC cutter temperature model**: Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
+The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
 
-**Realtime bit wear model**: A Real-time bit wear model was developed to track the bit grade in real-time. This is essential due to the fact the cutters are progressively worn out which will affect the drilling performance, depth of cut, rate of penetration, cutter temperature, etc.
+**PDC cutter temperature model**: 
+
+Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
+
+**Realtime bit wear model**: 
+
+A Real-time bit wear model was developed to track the bit grade in real-time. This is essential due to the fact that the cutters are progressively worn out which will affect the drilling performance, depth of cut, rate of penetration, cutter temperature, etc.
 
 
-**The Realtime Drilling Optimization Platform has five tabs including**:
+# The Realtime Drilling Optimization Platform has five tabs including
 * Main Page
 * Analysis Details
 * QC Analysis
@@ -101,9 +109,9 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
-**PDC ROP Simulation results** :
+**PDC ROP Simulation results**:
 
-The drilling ROP was simulate using the drilling optimization software and the results are seen in the following figures.
+In step one, the drilling ROP is simulate using the drilling optimization software and the results are seen in the following figures.
 
 <p align="left">
   <img width="800" src="Assets/ch_m.png" >
@@ -151,7 +159,9 @@ The software can read the WITSML file and generates its necessary input file to 
 
 
 
-**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
+**ROP, Temperature and MSE simulation**:
+
+A simulation for ROP, Temprature, MSE for different BG values and at constant rock strength are seen at the following.
 
 <p align="left">
   <img width="650" src="Assets/Simulation.gif" >
