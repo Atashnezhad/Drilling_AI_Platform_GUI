@@ -78,7 +78,7 @@ The size of black circles shows the share of each parameter on the dependant par
 
 **Drill string vibration model**: The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
 
-**PDC cutter temperature model** : Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
+**PDC cutter temperature model**: Glowka (1978) developed an analytical PDC cutter temperature model. The Glowka model was used for tracking the cutter temperature in real-time considering several parameters including bit grade.
 
 **Realtime bit wear model**: A Real-time bit wear model was developed to track the bit grade in real-time. This is essential due to the fact the cutters are progressively worn out which will affect the drilling performance, depth of cut, rate of penetration, cutter temperature, etc.
 
@@ -101,7 +101,7 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
-**PDC ROP Simulation results** 
+**PDC ROP Simulation results** :
 
 The drilling ROP was simulate using the drilling optimization software and the results are seen in the following figures.
 
@@ -133,7 +133,7 @@ In step three, the user can run the software to calculate the best WOB and RPM f
 
 The user also can-do separate drill string vibration analyses on different rock strengths.
 
-**The Software output for vibration analysis is seen below.**
+**The Software output for vibration analysis is seen below**:
 
 <p align="left">
    <img width="400" src="Assets/GIF2.gif" >
