@@ -71,8 +71,8 @@ Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of
 
  The SALib library was used for [sensitivity analysis](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model) and the result is seen at the following figure. 
 
-<p align="left">
-  <img width="700" src="Assets/AkhtarmaneshEtAlModelSens.png" >
+<p align="center">
+  <img width="400" src="Assets/AkhtarmaneshEtAlModelSens - Copy.png" >
 </p>
 
 The size of black circles shows the share of each parameter on the dependant parameter (ROP). The connections are representative of the interaction between parameters.
