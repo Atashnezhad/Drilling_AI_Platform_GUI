@@ -101,7 +101,9 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
-**Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure.** 
+**PDC ROP Simulation results** 
+
+The drilling ROP was simulate using the drilling optimization software and the results are seen in the following figures.
 
 <p align="left">
   <img width="800" src="Assets/ch_m.png" >
