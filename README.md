@@ -144,8 +144,8 @@ The user also can-do separate drill string vibration analyses on different rock 
 **The Software output for vibration analysis is seen below**:
 
 <p align="left">
-   <img width="400" src="Assets/GIF2.gif" >
-   <img width="400" src="Assets/Capture5.PNG" >
+   <img width="420" src="Assets/GIF2.gif" >
+   <img width="420" src="Assets/Capture5.PNG" >
 </p>
 
 
