@@ -190,7 +190,7 @@ Oklahoma State University, Stillwater, OK, USA
 ```
 
 
-
+As it is seen in the drilling time plot, there is a potential for decreasing the drilling time for drilling intervals (43%).
 
 
 
