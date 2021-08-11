@@ -106,6 +106,24 @@ Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain
   <img width="800" src="Assets/ch_m.png" >
 </p>
 
+
+```
+Above Figures reference: 
+ARMA 21–1214
+ROP Model for PDC Bits in Geothermal Drilling
+Akhtarmanesh, S.
+Oklahoma State University, Stillwater, OK, USA
+Atashnezhad, A., Hareland, G. and Al Dushaishi, M.
+Oklahoma State University, Stillwater, OK, USA
+```
+
+
+
+
+
+
+
+
 In step two, the software back calculates the rock strength in real-time, using the ROP model and ROP_data and bit details. The ROP_data is used in the ROP model and the one unknown parameter (ARS) is back-calculated. The ARS then is turned into the CCS and UCS considering the depth and MW into account.
 
 In step three, the user can run the software to calculate the best WOB and RPM for the current foot of drilling and assuming that the rock strength is the same for the next foot. Knowing the rock strength, a foot ahead, the searching algorithm (differential evolution algorithm) will find the best WOB and RPM to maximize the objective function (defined by the user, i.e. MSE, ROP, or combination of MSE and ROP) while avoiding the critical vibrational and cutter temperature defined by the user.
