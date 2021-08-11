@@ -14,6 +14,7 @@ Currently, American geothermal electricity production is located solely in the w
 
 Technological innovation is necessary to economically convert these resources into cost-effective energy resources. The awardees will focus on early-stage R&D projects exploring innovative technologies for drilling geothermal wells that show the ability to reduce non-drilling time, improve rates of penetration, and identify methods to accelerate the transfer of geothermal drilling and related technologies from the laboratory to the marketplace. 
 
+<!--
 ### The selected projects include: 
 
 **Argonne National Laboratory (Argonne, IL):** Developing more advanced, low-cost materials using superhard nano-composites combined with ultrafast surface treatment to create new drill bits with tunable properties capable of doubling rates of penetration (ROP) for drilling geothermal wells.
@@ -29,7 +30,7 @@ General Electric Company, GE Global Research (Niskayuna, NY): Developing and tes
 
 **University of Oklahoma (Norman, OK):** Developing and testing smart lost circulation materials (LCM) that use shape memory polymers activated by geothermal temperature to prevent the loss of fluid into fractured rock next to the drilled wellbore; the smart LCM expands within the fractures to reduce non-drilling time (NDT) and strengthen the wellbore in high temperature geothermal drilling operations.
 DOE’s Geothermal Technologies Office supports early-stage R&D to achieve necessary technological breakthroughs. Learn more about DOE’s Geothermal Technologies Office HERE.
-
+-->
 
 
 
@@ -100,7 +101,7 @@ The Analysis tab is seen below. The user have access to around 110 design parame
   <img width="800" src="Assets/Capture2.PNG" >
 </p>
 
-Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure. 
+### Simulation results (Akhtarmanesh et al. 2021 - ARMA 1214) for Chocolate Mountain wells are seen in the following figure. 
 
 <p align="left">
   <img width="800" src="Assets/ch_m.png" >
@@ -130,10 +131,10 @@ In step three, the user can run the software to calculate the best WOB and RPM f
 
 The user also can-do separate drill string vibration analyses on different rock strengths.
 
-The Software output for vibration analysis is seen below.
+### The Software output for vibration analysis is seen below.
 
 <p align="left">
-  <img width="400" src="Assets/GIF2.gif" >
+   <img width="400" src="Assets/GIF2.gif" >
    <img width="400" src="Assets/Capture5.PNG" >
 </p>
 
@@ -148,7 +149,7 @@ The software can read the WITSML file and generates its necessary input file to 
 
 
 
-**A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.**
+### A simulation of ROP, Temperature and MSE for different BG values at constant rock strength is seen at the following.
 
 <p align="left">
   <img width="650" src="Assets/Simulation.gif" >
@@ -156,8 +157,8 @@ The software can read the WITSML file and generates its necessary input file to 
 
 
 
-### Artificial Intelligence realtime optimization results
-The drilling real-time optimization system was used for Utah-Forge Well 58-32. The results are seen in the following figures
+# Artificial Intelligence realtime optimization results
+The drilling real-time optimization system was used for Utah-Forge Well 58-32. The results are seen in the following figures.
 
 <p align="left">
   <img width="360" src="Assets/Fig7ARMA1215.PNG" >
@@ -175,6 +176,16 @@ Oklahoma State University, Stillwater, OK, USA
 Akhtarmanesh, S., Hareland, G., and Al Dushaishi, M.
 Oklahoma State University, Stillwater, OK, USA
 ```
+
+
+
+
+
+
+
+
+
+
 
 
 
