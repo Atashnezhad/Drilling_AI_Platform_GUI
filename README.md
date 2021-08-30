@@ -49,14 +49,14 @@ DOE’s Geothermal Technologies Office supports early-stage R&D to achieve neces
 
 # Realtime Drilling Optimziation Software 
 
-This is part of a DOE project at Oklahoma State University. 
+This is part of a DOE project at Oklahoma State University.
 
 Team members:
 ```
-Dr. Geir Hareland
-Dr. Runar Nygaard
+PI: Dr. Geir Hareland
+Co-PI: Dr. Runar Nygaard
+Co-PI: Dr. Mohammed F. Al Dushaishi
 Dr. Saman Akhtarmanesh
-Dr. Mohammed F. Al Dushaishi
 Dr. Amin Atashnezhad
 ```
 
@@ -66,21 +66,20 @@ The project incorporates several modules to achieve a Real-time drilling optimiz
 
 **The PDC ROP modeling**: 
 
-A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, RPM, WOB, bit diameter, and apparent rock strength.
-Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of penetration (ROP_t) introduced and used to detect the two main regions in drilling ROP-WOB plots. 
+A model was developed for hard-rocks considering the PDC bit details including number of cutters, number of blades, cutter back rake, cutter side rake, cutter diameter, bit diameter, and operational parameters such as RPM, WOB, and apparent rock strength. Two concepts, including threshold weight on cutter (WOC_t) and threshold rate of penetration (ROP_t) introduced and used to detect the two main regions in drilling ROP-WOB plots. 
 
- The SALib library was used for [sensitivity analysis](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model) and the result is seen at the following figure. 
+The SALib library was used for [sensitivity analysis](https://github.com/Atashnezhad/ROP-Modeling/tree/main/Akhtarmanesh%20et%20al%20PDC%20ROP%20model) to identify parameters with a significant effect on ROP, as seen in the following figure.
 
 <p align="center">
   <img width="400" src="Assets/AkhtarmaneshEtAlModelSens - Copy.png" >
 </p>
 
-The size of black circles shows the share of each parameter on the dependant parameter (ROP). The connections are representative of the interaction between parameters.
+The size of black circles shows the contribution of each parameter on the dependent parameter (ROP). The connections are representative of the second-order interaction between parameters.
 
 
 **Drill string vibration model**: 
 
-The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical regions. The critical regions are considered and are avoided for operational parameter design purposes. 
+The drill string vibration model developed (Al Dushaishi et al. 2019) was used for vibration simulation and to detect the critical speed regions. The critical regions are considered and are avoided for operational parameter design purposes.
 
 **PDC cutter temperature model**: 
 
@@ -101,8 +100,7 @@ A Real-time bit wear model was developed to track the bit grade in real-time. Th
 
 
 
-The system simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. 
-The Analysis tab is seen below. The user have access to around 110 design parameters.
+The system simulates the ROP, taking the essential parameters as a .csv file including depth, dt, WOB, RPM, ROP_data, and rock strength. In the Analysis tab shown below, the user has access to around 110 design parameters.
 
 
 <p align="left">
@@ -111,7 +109,7 @@ The Analysis tab is seen below. The user have access to around 110 design parame
 
 **PDC ROP Simulation results**:
 
-In step one, the drilling ROP is simulate using the drilling optimization software and the results are seen in the following figures.
+In step one, the ROP is simulated using the drilling optimization software and the results are seen in the following figures.
 
 <p align="left">
   <img width="800" src="Assets/ch_m.png" >
@@ -151,9 +149,7 @@ The user also can-do separate drill string vibration analyses on different rock 
 
 
 
-The software will plot and compares the simulation results in 5 separate stages. 
-The user can save the analysis design in CSV format along with the simulation outputs from three steps.
-The software can read the WITSML file and generates its necessary input file to be used in simulation and optimization procedures.
+The software will plot and compares the simulation results in 5 separate stages. The user can save the analysis design in CSV format along with the simulation outputs from three steps. The software can read the WITSML file and generates its necessary input file to be used in simulation and optimization procedures.
 
 
 
@@ -190,7 +186,7 @@ Oklahoma State University, Stillwater, OK, USA
 ```
 
 
-As it is seen in the drilling time plot, there is a potential for decreasing the drilling time for drilling intervals (43%).
+As it is seen in the drilling time plot, there is a potential for decreasing the drilling time of the drilling intervals by 43%.
 
 
 
