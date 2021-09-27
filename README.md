@@ -1,4 +1,10 @@
 <p align="center">
+  <img width="1000" src="Assets/GIF_optGIF_opt (1).gif" >
+</p>
+
+
+
+<p align="center">
   <img width="1000" src="Assets/Capture - Copy.PNG" >
 </p>
 
